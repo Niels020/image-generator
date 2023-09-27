@@ -1,6 +1,7 @@
 # Image Generator
 
-Lightweight app in node.js to create images with the Open-AI image api
+Simple app in node.js to create images with the Open-AI image api
+Really just trying to use Dall-e for free :)
 
 ## To run the app
 
